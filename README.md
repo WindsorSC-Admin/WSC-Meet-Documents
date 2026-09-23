@@ -74,7 +74,7 @@ https://windsorsc-admin.github.io/WSC-Meet-Documents/meets/2026-27/entry-form.pd
 You can work out the link yourself from the path, or: open the file in
 GitHub, click the **⋯ (or "Raw")** menu — the file's path shown in the
 breadcrumbs at the top of the page is exactly what goes after
-`.github.io/meet-documents/`.
+`.github.io/WSC-Meet-Documents/`.
 
 Paste that link as the "Promoter's Conditions" / "Entry Form" link in your
 WordPress news post, exactly as you do today — the only thing that's changed
