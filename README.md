@@ -62,13 +62,13 @@ meets/2026-27/L3-Autumn-Sparkler-Summary-Entry-Form.xlsx
 Every file gets a permanent public link in this pattern:
 
 ```
-https://windsorsc-admin.github.io/meet-documents/<path-to-file>
+https://windsorsc-admin.github.io/WSC-Meet-Documents/<path-to-file>
 ```
 
 So a file uploaded to `meets/2026-27/entry-form.pdf` is live at:
 
 ```
-https://windsorsc-admin.github.io/meet-documents/meets/2026-27/entry-form.pdf
+https://windsorsc-admin.github.io/WSC-Meet-Documents/meets/2026-27/entry-form.pdf
 ```
 
 You can work out the link yourself from the path, or: open the file in
@@ -89,7 +89,7 @@ This repo needs **GitHub Pages** turned on before links will work:
 3. Set **Branch** to `main` and folder to `/ (root)`, then **Save**.
 4. Wait a minute or two for the first deploy — GitHub will show the live
    URL at the top of that same Pages settings page once it's ready. Confirm
-   it matches `https://windsorsc-admin.github.io/meet-documents/`.
+   it matches `https://windsorsc-admin.github.io/WSC-Meet-Documents/`.
 
 After that, every future push publishes automatically — nothing else to
 configure.
